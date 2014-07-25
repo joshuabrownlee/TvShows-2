@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TvShow2.Web", "TvShow2.Web\TvShow2.Web.csproj", "{330C7E0F-5DD9-48BF-B00F-6BF66F59A99F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TvShow2.Data", "TvShow2.Data\TvShow2.Data.csproj", "{9238E10F-432F-46D2-B59D-2D29346C4511}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TvShow2.Data.Models", "TvShow2.Data.Models\TvShow2.Data.Models.csproj", "{C45C3851-CEB7-4586-95DC-302E9D0236F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{330C7E0F-5DD9-48BF-B00F-6BF66F59A99F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{330C7E0F-5DD9-48BF-B00F-6BF66F59A99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{330C7E0F-5DD9-48BF-B00F-6BF66F59A99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{330C7E0F-5DD9-48BF-B00F-6BF66F59A99F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9238E10F-432F-46D2-B59D-2D29346C4511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9238E10F-432F-46D2-B59D-2D29346C4511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9238E10F-432F-46D2-B59D-2D29346C4511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9238E10F-432F-46D2-B59D-2D29346C4511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C45C3851-CEB7-4586-95DC-302E9D0236F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C45C3851-CEB7-4586-95DC-302E9D0236F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C45C3851-CEB7-4586-95DC-302E9D0236F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C45C3851-CEB7-4586-95DC-302E9D0236F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
